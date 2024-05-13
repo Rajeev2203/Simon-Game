@@ -1,0 +1,64 @@
+body{
+    text-align: center;
+    font-family:"Signika Negative", sans-serif;
+    background: url(bg\ wallpaper.jpg);
+    overflow: hidden;
+}
+
+h1,h2{
+    color: #EEEEEE;
+}
+
+h1{
+    font-size: 3rem;
+    word-spacing: 40px;
+    letter-spacing: 12px;
+}
+
+h2{
+    font-size: 1.8rem;
+    word-spacing: 8px;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+    margin-top: 1.3rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.red{
+    background-color: #d95980;
+}
+
+.yellow{
+    background-color: #f99b45;
+}
+
+.green{
+    background-color: #63aac0;
+}
+
+.blue{
+    background-color: #819ff9;
+}
+
+.flash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: #28B463;
+}
+
+.bgt{
+    /* background: url(bg\ wallpaper.jpg); */
+    background-color: #d95980;
+}
